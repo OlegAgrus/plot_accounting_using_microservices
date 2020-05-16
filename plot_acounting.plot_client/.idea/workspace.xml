@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91ca47bc-c855-406f-9493-3f732d9c9f65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/component/base/plotCreator/PlotCreator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/base/plotSellingCreator/PlotSellingCreator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/base/plotSellingCreator/PlotSellingCreator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/base/plotSellingItem/PlotSellingItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/base/plotSellingItem/PlotSellingItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/authManager/AuthManager.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/authManager/AuthManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/base/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/base/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/conferenceCreator/ConferenceCreator.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/base/plotCreator/PlotCreator.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/conferenceCreator/ConferenceCreator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/conferenceDetails/ConferenceDeatils.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/conferenceDetails/ConferenceDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/conferenceDetails/participantList/ParticipantList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/conferenceDetails/participantList/participantItem/ParticipantItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/conferenceItem/ConferenceItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/base/plotItem/PlotItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/base/conferenceItem/ConferenceItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/base/plotItem/PlotItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/logout/Logout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routers.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/component/base/base.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/base/plotSellingCreator/PlotSellingCreator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/base/plotCreator/PlotCreator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/base/plotItem/PlotItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/base/plotSellingItem/PlotSellingItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/base/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/routers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conference</find>
+      <find>confere</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>plot</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceDetails/conferenceDetails.js" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceItem/ConferenceItem.css" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceDetails/ConferenceDeatils.css" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceItem/ConferenceItem.js" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceDetails/participantList/ParticipantList.js" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceDetails/participantList/participantItem/ParticipantItem.js" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceCreator/ConferenceCreator.css" />
+        <option value="$PROJECT_DIR$/src/component/logout/Logout.js" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceDetails/ConferenceDetails.js" />
+        <option value="$PROJECT_DIR$/src/component/authManager/AuthManager.css" />
+        <option value="$PROJECT_DIR$/src/component/authManager/AuthManager.js" />
+        <option value="$PROJECT_DIR$/src/component/base/base.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceCreator/ConferenceCreator.js" />
+        <option value="$PROJECT_DIR$/src/component/base/conferenceCreator/PlotCreator.js" />
+        <option value="$PROJECT_DIR$/src/routers.js" />
+        <option value="$PROJECT_DIR$/src/component/base/plotSellingCreator/PlotSellingCreator.js" />
+        <option value="$PROJECT_DIR$/src/component/base/plotItem/PlotItem.js" />
+        <option value="$PROJECT_DIR$/src/component/base/plotSellingItem/PlotSellingItem.js" />
+        <option value="$PROJECT_DIR$/src/component/base/base.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/conference_manager_client.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="plot_acounting.plot_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plot_acounting.plot_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plot_acounting.plot_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plot_acounting.plot_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plot_acounting.plot_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plot_acounting.plot_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plot_acounting.plot_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plot_acounting.plot_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plot_acounting.plot_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plot_acounting.plot_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="plotSellingCreator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/component/base" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\My\Work\projects\plot-accounter\plot_acounting.plot_client\src\component\base" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ca47bc-c855-406f-9493-3f732d9c9f65" name="Default Changelist" comment="" />
+      <created>1579783634303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579783634303</updated>
+      <workItem from="1579783635692" duration="2818000" />
+      <workItem from="1579878615193" duration="7797000" />
+      <workItem from="1580048904898" duration="10317000" />
+      <workItem from="1580142964115" duration="9149000" />
+      <workItem from="1580231226695" duration="5510000" />
+      <workItem from="1580312472657" duration="5386000" />
+      <workItem from="1580385121923" duration="1591000" />
+      <workItem from="1580407631652" duration="599000" />
+      <workItem from="1580477520341" duration="5178000" />
+      <workItem from="1580552839870" duration="1654000" />
+      <workItem from="1580569866648" duration="8224000" />
+      <workItem from="1580640768812" duration="22000" />
+      <workItem from="1580662123443" duration="2267000" />
+      <workItem from="1580754681986" duration="411000" />
+      <workItem from="1580924704730" duration="2139000" />
+      <workItem from="1580988533268" duration="610000" />
+      <workItem from="1581012586018" duration="12000" />
+      <workItem from="1585497901932" duration="1204000" />
+      <workItem from="1586284951052" duration="471000" />
+      <workItem from="1586709697191" duration="654000" />
+      <workItem from="1586803699842" duration="632000" />
+      <workItem from="1587213696642" duration="130000" />
+      <workItem from="1587310085344" duration="9000" />
+      <workItem from="1589568355615" duration="261000" />
+      <workItem from="1589569043873" duration="2333000" />
+      <workItem from="1589622224243" duration="7490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76868000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32013422" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27620396" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.15014164" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/component/base/conferenceItem/ConferenceItem.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/plotCreator/PlotCreator.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/conferenceDetails/participantList/ParticipantList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/logout/Logout.js" />
+    <entry file="file://$PROJECT_DIR$/src/component/authManager/AuthManager.css" />
+    <entry file="file://$PROJECT_DIR$/src/component/base/conferenceDetails/ConferenceDeatils.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/conferenceDetails/participantList/participantItem/ParticipantItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/authManager/AuthManager.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/conferenceDetails/ConferenceDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/conferenceItem/ConferenceItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="1104" column="18" selection-start-line="1104" selection-start-column="18" selection-end-line="1104" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/plotCreator/PlotCreator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/plotSellingCreator/PlotSellingCreator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/plotItem/PlotItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/plotSellingItem/PlotSellingItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/base/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
