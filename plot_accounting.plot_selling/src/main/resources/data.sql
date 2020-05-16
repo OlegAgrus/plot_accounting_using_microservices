@@ -1,0 +1,2 @@
+insert into plot_selling (customer_name, customer_surname, transaction_time, plot_id) values ('name1', 'surname1', '2020-05-10 15:30:00', 3);
+insert into plot_selling (customer_name, customer_surname, transaction_time, plot_id) values ('name2', 'surname2', '2020-05-10 16:30:00', 4);
